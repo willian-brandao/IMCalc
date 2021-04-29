@@ -1,0 +1,2 @@
+com/will/imcalc/BuildConfig.java
+ com.will.imcalc.BuildConfig
