@@ -12,23 +12,22 @@
         style="@style/title_green" />
 
     <TextView
-        android:text="text"
+        android:text="@string/text"
         style="@style/title_green"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@color/button_color"/>
+        android:layout_height="wrap_content"/>
 
     <RadioButton
         android:layout_width="wrap_content"
         android:textSize="22sp"
-        android:text="hello radiobutton"
+        android:text="@string/hello_radiobutton"
         android:layout_height="wrap_content"
         style="@style/title_green"/>
 
     <CheckBox
         android:layout_width="wrap_content"
         android:textSize="22sp"
-        android:text="hello checkbox"
+        android:text="@string/hello_checkbox"
         android:layout_height="wrap_content"
         style="@style/title_green"/>
 </LinearLayout>

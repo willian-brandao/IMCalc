@@ -18,6 +18,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.IMCalc" >
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/radius" />
+
         <activity android:name="com.will.imcalc.ResultActivity" />
         <activity android:name="com.will.imcalc.MainActivity" >
             <intent-filter>

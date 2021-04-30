@@ -1,7 +1,19 @@
 [
     {
+        "merged": "C:\\projetos\\kotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_linear.xml.flat",
+        "source": "C:\\projetos\\kotlin\\app\\src\\main\\res\\layout\\main_linear.xml"
+    },
+    {
         "merged": "C:\\projetos\\kotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\projetos\\kotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\projetos\\kotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radius.xml.flat",
+        "source": "C:\\projetos\\kotlin\\app\\src\\main\\res\\drawable\\radius.xml"
+    },
+    {
+        "merged": "C:\\projetos\\kotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\projetos\\kotlin\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
     },
     {
         "merged": "C:\\projetos\\kotlin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -62,5 +74,9 @@
     {
         "merged": "C:\\projetos\\kotlin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\projetos\\kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\projetos\\kotlin\\app\\build\\intermediates\\res\\merged\\debug\\xml_radius.xml.flat",
+        "source": "C:\\projetos\\kotlin\\app\\src\\main\\res\\xml\\radius.xml"
     }
 ]
