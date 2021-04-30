@@ -976,6 +976,7 @@ color bright_foreground_inverse_material_dark
 color bright_foreground_inverse_material_light
 color bright_foreground_material_dark
 color bright_foreground_material_light
+color button_color
 color button_material_dark
 color button_material_light
 color cardview_dark_background
@@ -1031,6 +1032,7 @@ color foreground_material_dark
 color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
+color light_blue
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -1118,6 +1120,7 @@ color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color prima
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1126,10 +1129,12 @@ color primary_text_default_material_dark
 color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
+color principal
 color purple_200
 color purple_500
 color purple_700
 color radiobutton_themeable_attribute_color
+color red_happy
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -1681,6 +1686,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable radius
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1755,6 +1761,7 @@ id add
 id alertTitle
 id aligned
 id all
+id alturaEdt
 id always
 id animateToEnd
 id animateToStart
@@ -1773,6 +1780,7 @@ id bottom
 id bounce
 id buttonPanel
 id cache_measures
+id calculabtn
 id cancel_button
 id center
 id center_horizontal
@@ -1967,6 +1975,7 @@ id path
 id pathRelative
 id peekHeight
 id percent
+id pesoEdt
 id pin
 id position
 id postLayout
@@ -2069,6 +2078,7 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
+id titleTxt
 id title_template
 id toggle
 id top
@@ -2172,6 +2182,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout main_linear
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2281,6 +2292,9 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string hello_checkbox
+string hello_radiobutton
+string hello_world
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2341,6 +2355,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string text
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow
@@ -3057,6 +3072,8 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style input_style
+style title_green
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
@@ -3188,6 +3205,7 @@ styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
+xml radius
 xml standalone_badge
 xml standalone_badge_gravity_bottom_end
 xml standalone_badge_gravity_bottom_start
