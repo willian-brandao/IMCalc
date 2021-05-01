@@ -1761,6 +1761,7 @@ id add
 id alertTitle
 id aligned
 id all
+id alturaEDT
 id alturaEdt
 id always
 id animateToEnd
@@ -1780,6 +1781,7 @@ id bottom
 id bounce
 id buttonPanel
 id cache_measures
+id calculaBTN
 id calculabtn
 id cancel_button
 id center
@@ -1975,6 +1977,7 @@ id path
 id pathRelative
 id peekHeight
 id percent
+id pesoEDT
 id pesoEdt
 id pin
 id position
@@ -1984,6 +1987,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id resutlTXT
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2078,6 +2082,7 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
+id titleTXT
 id titleTxt
 id title_template
 id toggle
@@ -2183,6 +2188,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout main_linear
+layout main_relative
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
